@@ -17,7 +17,7 @@ npm start
 
 ## Server
 
-Running on http://localhost:8080
+Running on [http://localhost:8080](http://localhost:8080).
 
 ## API
 
