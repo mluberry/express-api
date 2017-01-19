@@ -15,6 +15,10 @@ docker-compose up -d
 npm start
 ```
 
+## Server
+
+Running on http://localhost:8080
+
 ## API
 
 | Route | HTTP Verb | Description |
