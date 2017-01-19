@@ -1,0 +1,8 @@
+version: '2'
+services:
+  mongodb:
+    extends:
+      file: docker-compose-common.yml
+      service: mongodb
+    ports:
+      - "27017:27017"
